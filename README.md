@@ -1,2 +1,2 @@
 # assets
-Assets for all of Collections
+Assets for Collections
